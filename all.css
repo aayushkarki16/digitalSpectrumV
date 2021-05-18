@@ -1,0 +1,37 @@
+h1{
+	font-family: 'Pattaya', sans-serif;
+	text-align: center;
+}
+
+table, td{
+	border: 10px solid white; 
+}
+
+table{
+	border-collapse: collapse;
+	margin: auto;
+	width: 50%;
+	height: 300px;
+}
+
+
+#td1{
+	background-color: #264653;
+
+}
+
+#td2{
+	background-color: #2A9D8F;
+}
+
+#td3{
+	background-color: #E9C46A;
+}
+
+#td4{
+	background-color: #f4a261;
+}
+
+#td5{
+	background-color: #E76F51;
+}
